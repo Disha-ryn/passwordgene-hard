@@ -31,3 +31,6 @@ How many letters would u like in your password? 5
 How many numbers would u like in your password? 3
 How many symbols would u like in your password? 2
 Your Final Password is w2$A1d!
+
+## Author
+ Disha / https://github.com/dishaaa5
